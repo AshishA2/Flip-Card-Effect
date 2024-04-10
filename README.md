@@ -1,2 +1,4 @@
-# Flip-Card-Effect
-Cards that flip on hover or click to reveal more information
+# flipcard-tut
+ Flipcard tutorial in HTML and CSS
+
+[Live Preview](https://htmlpreview.github.io/?https://github.com/russs123/flipcard-tut/blob/main/index.html)
